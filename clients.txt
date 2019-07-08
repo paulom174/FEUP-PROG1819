@@ -1,0 +1,23 @@
+﻿Rui Manuel
+234987156
+4
+Rua Sem Fim / 200 / 5 Esq / 1200‐001 / Lisboa
+1
+::::::::::
+Belmiro Miguel
+111987666
+5
+Avenida dos Grilos / 100 / ‐ / 2300‐101 / Coimbra
+1 ; 2
+::::::::::
+Andre Moreira
+920319230
+6
+Rua dos Mortos / 69 / 5 Dir / 4560‐595 / Penafiel
+1 ; 2 ; 3
+::::::::::
+Afonso Miguel Mendonça
+111021066
+6
+Rua Fonte da Cruz / 54 / Res / 4560‐511 / Penafiel
+1 ; 2 ; 3 ; 4
